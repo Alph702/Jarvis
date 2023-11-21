@@ -1,0 +1,14 @@
+1: Go to dist folder
+2: Go to Jarvis by Amanat Ali folder
+3: Right click on Jarvis by Amanat Ali.exe file
+4: Click sand to and click Desktop (create shortcut)
+5: Rename as Jarvis
+6:  open shortcut properties
+7: Click Change Icon
+8: Click Browse
+9: Go to Jarvis install folder
+10: Dubell Click on Jarvis logo.ico
+11: Click OK 
+12: Click font tab and castamize
+13: open Jarvis
+
